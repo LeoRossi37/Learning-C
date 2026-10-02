@@ -1,0 +1,1 @@
+// leva 2t segundos, porque t = k . log(n)
